@@ -19,3 +19,11 @@ regression2=lm(xxx~xxx+xxx+xxx+xxx,df)
 
 #Display 2nd regression results
 summary(regression2)
+
+#compute a regression for CHOL using AGE,SEX, and AGE_SEX the dependent variables
+AGE_SEX = AGE * SEX
+#replace the xxx with the relevant variable names
+regression3=lm(xxx~xxx+xxx+xxx,df)
+
+#Display 2nd regression results
+summary(regression3)
