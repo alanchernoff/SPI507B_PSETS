@@ -23,7 +23,7 @@ summary(regression2)
 #compute a regression for CHOL using AGE, SEX, RBP, MAX, and AGE_SEX the dependent variables
 df$AGE_SEX = df$xxx * df$xxx
 #replace the xxx with the relevant variable names
-regression3=lm(xxx~xxx+xxx+xxx+xxx+xxx,df)
+regression3=lm(xxx~xxx+xxx+xxx+xxx+xxx+xxx,df)
 
 #Display 3rd regression results
 summary(regression3)
