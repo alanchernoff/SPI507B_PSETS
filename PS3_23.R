@@ -1,5 +1,5 @@
 
-setwd("C:/Users/19084/Downloads") # you'll have to change this to where you downloaded StateIncome.csv
+setwd("C:/Users/19084/Downloads") # you'll have to change this to where you downloaded Heart_Disease.csv
 
 df <- read.csv('Heart_Disease.csv')
 
