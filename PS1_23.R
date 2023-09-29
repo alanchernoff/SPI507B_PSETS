@@ -15,6 +15,9 @@ median(StateInc$Income21)
 sd(StateInc$Income21)
 
 # for you to do: repeat the above three lines of code, calculating mean, median, and stdev for 2022
+# mean(StateInc$Income22)
+# median(StateInc$Income22)
+# sd(StateInc$Income22)
 
 
 
