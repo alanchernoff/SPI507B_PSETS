@@ -1,0 +1,47 @@
+"filename","market","state","slope","tempch","northwest"
+"albuquerque","Albuquerque • Santa Fe","NM",0.100000001490116,3.5,0
+"bakersfield","Bakersfield","CA",0,0.600000023841858,0
+"bend","Bend","OR",0,2.09999990463257,1
+"billings","Billings","MT",0.100000001490116,2.79999995231628,1
+"boise","Boise","ID",0.100000001490116,3.79999995231628,1
+"bozeman","Bozeman","MT",0.100000001490116,2.5,1
+"butte","Butte","MT",0,1.89999997615814,1
+"casper","Casper","WY",0,1.60000002384186,1
+"cheyenne","Cheyenne","WY",0,2.40000009536743,1
+"chicoca","Chico","CA",0.100000001490116,2.5,0
+"coloradosprings","Colorado Springs","CO",0.100000001490116,2.70000004768372,0
+"denver","Denver","CO",0,1.5,0
+"eugene","Eugene","OR",0,1.10000002384186,1
+"eureka","Eureka","CA",0,0.600000023841858,0
+"flagstaff","Flagstaff","AZ",0,2,0
+"fresno","Fresno","CA",0.100000001490116,3.70000004768372,0
+"glendive","Glendive","MT",0.100000001490116,2.5,1
+"grandjunction","Grand Junction Area","CO",0,0.800000011920929,0
+"greatfalls","Great Falls","MT",0,0.600000023841858,1
+"helena","Helena","MT",0.100000001490116,4.09999990463257,1
+"idahofalls","Idaho Falls","ID",0,-0.899999976158142,1
+"jacksonid","Jackson, ID","ID",0,1.70000004768372,1
+"lascruces","Las Cruces","NM",0.100000001490116,4,0
+"lasvegas","Las Vegas","NV",0.100000001490116,5.80000019073486,0
+"lewiston","Lewiston","ID",0,1.89999997615814,1
+"losangeles","Los Angeles","CA",0,0.400000005960464,0
+"medfordor","Medford","OR",0.100000001490116,3.5,1
+"missoula","Missoula","MT",0,2.09999990463257,1
+"monterey","Monterey","CA",0,0.100000001490116,0
+"palmsprings","Palm Springs","CA",0,1.79999995231628,0
+"phoenix","Phoenix","AZ",0.100000001490116,4.30000019073486,0
+"portlandor","Portland, OR","OR",0,1.89999997615814,1
+"prescott","Prescott","AZ",0.100000001490116,3.09999990463257,0
+"reno","Reno","NV",0.200000002980232,7.59999990463257,0
+"sacramento","Sacramento","CA",0,1.5,0
+"salinas","Salinas","CA",0,1.60000002384186,0
+"saltlakecity","Salt Lake City","UT",0.100000001490116,3.20000004768372,0
+"sandiego","San Diego","CA",0,0.400000005960464,0
+"sanfrancisco","San Francisco","CA",0.100000001490116,2.59999990463257,0
+"santamaria","Santa Maria","CA",0.100000001490116,2.79999995231628,0
+"seattle","Seattle • Tacoma","WA",0,1.89999997615814,1
+"spokane","Spokane","WA",0,2.40000009536743,1
+"tucson","Tucson","AZ",0.100000001490116,4.5,0
+"twinfalls","Twin Falls","ID",0,1.70000004768372,1
+"yakima","Yakima","WA",0,2.40000009536743,1
+"yuma","Yuma • El Centro","AZ",0.100000001490116,3.5,0
